@@ -1,0 +1,10 @@
+C:\Users\20135214\Desktop\Dados Karina\Dados Karina\bin\Debug\Dados Karina.exe.config
+C:\Users\20135214\Desktop\Dados Karina\Dados Karina\bin\Debug\Dados Karina.exe
+C:\Users\20135214\Desktop\Dados Karina\Dados Karina\bin\Debug\Dados Karina.pdb
+C:\Users\20135214\Desktop\Dados Karina\Dados Karina\obj\Debug\Dados_Karina.Form1.resources
+C:\Users\20135214\Desktop\Dados Karina\Dados Karina\obj\Debug\Dados_Karina.Properties.Resources.resources
+C:\Users\20135214\Desktop\Dados Karina\Dados Karina\obj\Debug\Dados Karina.csproj.GenerateResource.Cache
+C:\Users\20135214\Desktop\Dados Karina\Dados Karina\obj\Debug\Dados Karina.csproj.CoreCompileInputs.cache
+C:\Users\20135214\Desktop\Dados Karina\Dados Karina\obj\Debug\Dados Karina.exe
+C:\Users\20135214\Desktop\Dados Karina\Dados Karina\obj\Debug\Dados Karina.pdb
+C:\Users\20135214\Desktop\Dados Karina\Dados Karina\obj\Debug\Dados Karina.csprojResolveAssemblyReference.cache
